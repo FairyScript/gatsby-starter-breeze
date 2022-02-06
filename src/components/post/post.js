@@ -2,7 +2,7 @@ import { FaRegCalendarAlt, FaTags } from "react-icons/fa"
 
 import { Link } from "gatsby"
 import React from "react"
-import styles from "./post.module.scss"
+import * as styles from "./post.module.scss"
 
 const _ = require("lodash")
 

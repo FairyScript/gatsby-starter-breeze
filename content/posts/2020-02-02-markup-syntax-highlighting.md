@@ -46,7 +46,7 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
 ```
 
 ```jsx
-import styles from "./tags.module.scss"
+import * as styles from "./tags.module.scss"
 
 const Tags = ({ tags }) => {
   return (

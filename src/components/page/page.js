@@ -1,5 +1,5 @@
 import React from "react"
-import styles from "./page.module.scss"
+import * as styles from "./page.module.scss"
 
 const Page = ({ title, image, children, nopadding }) => {
   return (
